@@ -16,6 +16,7 @@ CH$LINK: CAS 73963-72-1
 CH$LINK: PUBCHEM CID: 2754
 CH$LINK: INCHIKEY RRGUKTPIGVIEKM-UHFFFAOYSA-N
 CH$LINK: COMPTOX DTXSID9045132
+CH$LINK: ChemOnt CHEMONTID:0000056; Organic compounds; Organoheterocyclic compounds; Quinolines and derivatives; Quinolones and derivatives
 AC$INSTRUMENT: Exploris 480 Orbitrap (Thermo Scientific)
 AC$INSTRUMENT_TYPE: LC-ESI-QFT
 AC$MASS_SPECTROMETRY: MS_TYPE MS2

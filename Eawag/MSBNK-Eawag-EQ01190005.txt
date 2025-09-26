@@ -16,6 +16,7 @@ CH$IUPAC: InChI=1S/C11H15N5O3/c1-12-10-9-11(14-4-13-10)16(5-15-9)8-2-6(18)7(3-17
 CH$LINK: CHEBI NA
 CH$LINK: PUBCHEM CID:248869
 CH$LINK: INCHIKEY DYSDOYRQWBDGQQ-UHFFFAOYSA-N
+CH$LINK: ChemOnt CHEMONTID:0002177; Organic compounds; Nucleosides, nucleotides, and analogues; Purine nucleosides; Purine 2'-deoxyribonucleosides
 AC$INSTRUMENT: Exploris 240 Orbitrap Thermo Scientific
 AC$INSTRUMENT_TYPE: LC-ESI-QFT
 AC$MASS_SPECTROMETRY: MS_TYPE MS2

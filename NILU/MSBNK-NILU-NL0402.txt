@@ -11,6 +11,7 @@ CH$FORMULA: C18HF35O2
 CH$EXACT_MASS: 913.9417649
 CH$SMILES: C(=O)(C(C(C(C(C(C(C(C(C(C(C(C(C(C(C(C(C(F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)O
 CH$IUPAC: InChI=1S/C18HF35O2/c19-2(20,1(54)55)3(21,22)4(23,24)5(25,26)6(27,28)7(29,30)8(31,32)9(33,34)10(35,36)11(37,38)12(39,40)13(41,42)14(43,44)15(45,46)16(47,48)17(49,50)18(51,52)53/h(H,54,55)
+CH$LINK: ChemOnt CHEMONTID:0000262; Organic compounds; Lipids and lipid-like molecules; Fatty Acyls; Fatty acids and conjugates
 AC$INSTRUMENT: Vanquish LC, Thermo Scientific; Exploris 120 Orbitrap, Thermo Scientific
 AC$INSTRUMENT_TYPE: LC-ESI-FT
 AC$MASS_SPECTROMETRY: MS_TYPE MS2

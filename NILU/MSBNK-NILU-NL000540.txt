@@ -11,6 +11,7 @@ CH$FORMULA: C8H5ClF3NO2
 CH$EXACT_MASS: 238.9960906
 CH$SMILES: CC1=C(C=C(C=C1[N+](=O)[O-])Cl)C(F)(F)F
 CH$IUPAC: InChI=1S/C8H5ClF3NO2/c1-4-6(8(10,11)12)2-5(9)3-7(4)13(14)15/h2-3H,1H3
+CH$LINK: ChemOnt CHEMONTID:0004551; Organic compounds; Benzenoids; Benzene and substituted derivatives; Trifluoromethylbenzenes
 AC$INSTRUMENT: Trace 1310 GC, Thermo Scientific; Q Exactive Orbitrap, Thermo Scientific
 AC$INSTRUMENT_TYPE: GC-EI-FT
 AC$MASS_SPECTROMETRY: MS_TYPE MS

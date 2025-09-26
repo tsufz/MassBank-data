@@ -11,6 +11,7 @@ CH$FORMULA: C13HF27O3S
 CH$EXACT_MASS: 749.9215254
 CH$SMILES: C(C(C(C(C(C(C(F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(C(C(C(C(C(C(F)(F)S(=O)(=O)O)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F
 CH$IUPAC: InChI=1S/C13HF27O3S/c14-1(15,2(16,17)4(20,21)6(24,25)8(28,29)10(32,33)12(36,37)38)3(18,19)5(22,23)7(26,27)9(30,31)11(34,35)13(39,40)44(41,42)43/h(H,41,42,43)
+CH$LINK: ChemOnt CHEMONTID:0001027; Organic compounds; Organohalogen compounds; Alkyl halides; Alkyl fluorides
 AC$INSTRUMENT: Vanquish LC, Thermo Scientific; Exploris 120 Orbitrap, Thermo Scientific
 AC$INSTRUMENT_TYPE: LC-ESI-FT
 AC$MASS_SPECTROMETRY: MS_TYPE MS2

@@ -11,6 +11,7 @@ CH$FORMULA: C16H30O4
 CH$EXACT_MASS: 286.21440943
 CH$SMILES: CC(C)C(C(C)(C)COC(=O)C(C)C)OC(=O)C(C)C
 CH$IUPAC: InChI=1S/C16H30O4/c1-10(2)13(20-15(18)12(5)6)16(7,8)9-19-14(17)11(3)4/h10-13H,9H2,1-8H3
+CH$LINK: ChemOnt CHEMONTID:0000346; Organic compounds; Organic acids and derivatives; Carboxylic acids and derivatives; Dicarboxylic acids and derivatives
 AC$INSTRUMENT: Trace 1310 GC, Thermo Scientific; Q Exactive Orbitrap, Thermo Scientific
 AC$INSTRUMENT_TYPE: GC-EI-FT
 AC$MASS_SPECTROMETRY: MS_TYPE MS

@@ -16,6 +16,7 @@ CH$LINK: CAS 83-67-0
 CH$LINK: PUBCHEM CID: 5429
 CH$LINK: INCHIKEY YAPQBXQYLJRXSA-UHFFFAOYSA-N
 CH$LINK: COMPTOX DTXSID9026132
+CH$LINK: ChemOnt CHEMONTID:0000245; Organic compounds; Organoheterocyclic compounds; Imidazopyrimidines; Purines and purine derivatives
 AC$INSTRUMENT: Exploris 480 Orbitrap (Thermo Scientific)
 AC$INSTRUMENT_TYPE: LC-ESI-QFT
 AC$MASS_SPECTROMETRY: MS_TYPE MS2

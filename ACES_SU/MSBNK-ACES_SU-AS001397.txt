@@ -16,6 +16,7 @@ CH$LINK: CAS 143491-57-0
 CH$LINK: PUBCHEM CID: 60877
 CH$LINK: INCHIKEY XQSPYNMVSIKCOC-NTSWFWBYSA-N
 CH$LINK: COMPTOX DTXSID0040129
+CH$LINK: ChemOnt CHEMONTID:0003746; Organic compounds; Nucleosides, nucleotides, and analogues; Nucleoside and nucleotide analogues; 3'-thia pyrimidine nucleosides
 AC$INSTRUMENT: Exploris 480 Orbitrap (Thermo Scientific)
 AC$INSTRUMENT_TYPE: LC-ESI-QFT
 AC$MASS_SPECTROMETRY: MS_TYPE MS2

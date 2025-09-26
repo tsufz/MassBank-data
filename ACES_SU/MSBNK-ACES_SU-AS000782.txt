@@ -16,6 +16,7 @@ CH$LINK: CAS 101363-10-4
 CH$LINK: PUBCHEM CID: 58258
 CH$LINK: INCHIKEY NJCJBUHJQLFDSW-UHFFFAOYSA-N
 CH$LINK: COMPTOX DTXSID6048412
+CH$LINK: ChemOnt CHEMONTID:0002552; Organic compounds; Organoheterocyclic compounds; Quinolines and derivatives; Quinoline carboxylic acids
 AC$INSTRUMENT: Exploris 480 Orbitrap (Thermo Scientific)
 AC$INSTRUMENT_TYPE: LC-ESI-QFT
 AC$MASS_SPECTROMETRY: MS_TYPE MS2

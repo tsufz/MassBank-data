@@ -16,6 +16,7 @@ CH$LINK: CAS 43210-67-9
 CH$LINK: PUBCHEM CID: 3334
 CH$LINK: INCHIKEY HDDSHPAODJUKPD-UHFFFAOYSA-N
 CH$LINK: COMPTOX DTXSID0040672
+CH$LINK: ChemOnt CHEMONTID:0004711; Organic compounds; Organoheterocyclic compounds; Benzimidazoles; 2-benzimidazolylcarbamic acid esters
 AC$INSTRUMENT: Exploris 480 Orbitrap (Thermo Scientific)
 AC$INSTRUMENT_TYPE: LC-ESI-QFT
 AC$MASS_SPECTROMETRY: MS_TYPE MS2

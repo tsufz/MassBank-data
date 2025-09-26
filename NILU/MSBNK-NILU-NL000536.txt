@@ -11,6 +11,7 @@ CH$FORMULA: C8H4N2
 CH$EXACT_MASS: 128.037448136
 CH$SMILES: C1=CC(=CC=C1C#N)C#N
 CH$IUPAC: InChI=1S/C8H4N2/c9-5-7-1-2-8(6-10)4-3-7/h1-4H
+CH$LINK: ChemOnt CHEMONTID:0001530; Organic compounds; Benzenoids; Benzene and substituted derivatives; Benzonitriles
 AC$INSTRUMENT: Trace 1310 GC, Thermo Scientific; Q Exactive Orbitrap, Thermo Scientific
 AC$INSTRUMENT_TYPE: GC-EI-FT
 AC$MASS_SPECTROMETRY: MS_TYPE MS

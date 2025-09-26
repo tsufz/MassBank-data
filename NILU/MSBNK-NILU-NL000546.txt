@@ -11,6 +11,7 @@ CH$FORMULA: C6H4Br3N
 CH$EXACT_MASS: 328.78734
 CH$SMILES: C1=C(C=C(C(=C1Br)N)Br)Br
 CH$IUPAC: InChI=1S/C6H4Br3N/c7-3-1-4(8)6(10)5(9)2-3/h1-2H,10H2
+CH$LINK: ChemOnt CHEMONTID:0000284; Organic compounds; Benzenoids; Benzene and substituted derivatives; Aniline and substituted anilines
 AC$INSTRUMENT: Trace 1310 GC, Thermo Scientific; Q Exactive Orbitrap, Thermo Scientific
 AC$INSTRUMENT_TYPE: GC-EI-FT
 AC$MASS_SPECTROMETRY: MS_TYPE MS

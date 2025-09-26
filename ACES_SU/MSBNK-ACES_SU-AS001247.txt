@@ -16,6 +16,7 @@ CH$LINK: CAS 128-13-2
 CH$LINK: PUBCHEM CID: 31401
 CH$LINK: INCHIKEY RUDATBOHQWOJDD-UZVSRGJWSA-N
 CH$LINK: COMPTOX DTXSID6023731
+CH$LINK: ChemOnt CHEMONTID:0001445; Organic compounds; Lipids and lipid-like molecules; Steroids and steroid derivatives; Bile acids, alcohols and derivatives
 AC$INSTRUMENT: Exploris 480 Orbitrap (Thermo Scientific)
 AC$INSTRUMENT_TYPE: LC-ESI-QFT
 AC$MASS_SPECTROMETRY: MS_TYPE MS2

@@ -16,6 +16,7 @@ CH$LINK: CAS 58652-20-3
 CH$LINK: PUBCHEM CID: 91668
 CH$LINK: INCHIKEY IIVBFTNIGYRNQY-YQLZSBIMSA-N
 CH$LINK: COMPTOX DTXSID90207349
+CH$LINK: ChemOnt CHEMONTID:0003569; Organic compounds; Lipids and lipid-like molecules; Steroids and steroid derivatives; Pregnane steroids
 AC$INSTRUMENT: Exploris 480 Orbitrap (Thermo Scientific)
 AC$INSTRUMENT_TYPE: LC-ESI-QFT
 AC$MASS_SPECTROMETRY: MS_TYPE MS2

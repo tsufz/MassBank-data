@@ -16,6 +16,7 @@ CH$LINK: CAS 362-74-3
 CH$LINK: PUBCHEM CID: 9687
 CH$LINK: INCHIKEY CJGYSWNGNKCJSB-YVLZZHOMSA-N
 CH$LINK: COMPTOX DTXSID1040459
+CH$LINK: ChemOnt CHEMONTID:0001491; Organic compounds; Nucleosides, nucleotides, and analogues; Purine nucleotides; Cyclic purine nucleotides
 AC$INSTRUMENT: Exploris 480 Orbitrap (Thermo Scientific)
 AC$INSTRUMENT_TYPE: LC-ESI-QFT
 AC$MASS_SPECTROMETRY: MS_TYPE MS2

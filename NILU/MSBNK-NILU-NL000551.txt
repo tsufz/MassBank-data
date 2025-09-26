@@ -11,6 +11,7 @@ CH$FORMULA: C14H13I
 CH$EXACT_MASS: 308.00620
 CH$SMILES: CCC1=CC=C(C=C1)C2=CC=C(C=C2)I
 CH$IUPAC: InChI=1S/C14H13I/c1-2-11-3-5-12(6-4-11)13-7-9-14(15)10-8-13/h3-10H,2H2,1H3
+CH$LINK: ChemOnt CHEMONTID:0000041; Organic compounds; Benzenoids; Benzene and substituted derivatives; Biphenyls and derivatives
 AC$INSTRUMENT: Trace 1310 GC, Thermo Scientific; Q Exactive Orbitrap, Thermo Scientific
 AC$INSTRUMENT_TYPE: GC-EI-FT
 AC$MASS_SPECTROMETRY: MS_TYPE MS

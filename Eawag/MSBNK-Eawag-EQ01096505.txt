@@ -19,6 +19,7 @@ CH$LINK: CHEBI 178063
 CH$LINK: PUBCHEM CID:14572930
 CH$LINK: INCHIKEY AZSKHRTUXHLAHS-UHFFFAOYSA-N
 CH$LINK: CHEMSPIDER 10612755
+CH$LINK: ChemOnt CHEMONTID:0000408; Organic compounds; Organic acids and derivatives; Organic phosphoric acids and derivatives; Phosphate esters
 AC$INSTRUMENT: Exploris 240 Orbitrap Thermo Scientific
 AC$INSTRUMENT_TYPE: LC-ESI-QFT
 AC$MASS_SPECTROMETRY: MS_TYPE MS2

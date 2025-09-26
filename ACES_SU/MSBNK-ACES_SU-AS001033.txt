@@ -16,6 +16,7 @@ CH$LINK: CAS 102767-28-2
 CH$LINK: PUBCHEM CID: 5284583
 CH$LINK: INCHIKEY HPHUVLMMVZITSG-LURJTMIESA-N
 CH$LINK: COMPTOX DTXSID9023207
+CH$LINK: ChemOnt CHEMONTID:0000013; Organic compounds; Organic acids and derivatives; Carboxylic acids and derivatives; Amino acids, peptides, and analogues
 AC$INSTRUMENT: Exploris 480 Orbitrap (Thermo Scientific)
 AC$INSTRUMENT_TYPE: LC-ESI-QFT
 AC$MASS_SPECTROMETRY: MS_TYPE MS2

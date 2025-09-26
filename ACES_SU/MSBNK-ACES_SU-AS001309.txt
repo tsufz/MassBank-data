@@ -16,6 +16,7 @@ CH$LINK: CAS 474-25-9
 CH$LINK: PUBCHEM CID: 10133
 CH$LINK: INCHIKEY RUDATBOHQWOJDD-BSWAIDMHSA-N
 CH$LINK: COMPTOX DTXSID2020260
+CH$LINK: ChemOnt CHEMONTID:0001445; Organic compounds; Lipids and lipid-like molecules; Steroids and steroid derivatives; Bile acids, alcohols and derivatives
 AC$INSTRUMENT: Exploris 480 Orbitrap (Thermo Scientific)
 AC$INSTRUMENT_TYPE: LC-ESI-QFT
 AC$MASS_SPECTROMETRY: MS_TYPE MS2

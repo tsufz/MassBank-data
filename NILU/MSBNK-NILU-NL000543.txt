@@ -11,6 +11,7 @@ CH$FORMULA: C8H5Cl3O
 CH$EXACT_MASS: 221.940598
 CH$SMILES: CC(=O)C1=C(C(=C(C=C1)Cl)Cl)Cl
 CH$IUPAC: InChI=1S/C8H5Cl3O/c1-4(12)5-2-3-6(9)8(11)7(5)10/h2-3H,1H3
+CH$LINK: ChemOnt CHEMONTID:0001831; Organic compounds; Organic oxygen compounds; Organooxygen compounds; Carbonyl compounds
 AC$INSTRUMENT: Trace 1310 GC, Thermo Scientific; Q Exactive Orbitrap, Thermo Scientific
 AC$INSTRUMENT_TYPE: GC-EI-FT
 AC$MASS_SPECTROMETRY: MS_TYPE MS

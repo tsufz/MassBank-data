@@ -16,6 +16,7 @@ CH$LINK: CAS 136470-78-5
 CH$LINK: PUBCHEM CID: 441300
 CH$LINK: INCHIKEY MCGSCOLBFJQGHM-SCZZXKLOSA-N
 CH$LINK: COMPTOX DTXSID4046444
+CH$LINK: ChemOnt CHEMONTID:0003738; Organic compounds; Nucleosides, nucleotides, and analogues; Nucleoside and nucleotide analogues; Cyclopentyl nucleosides
 AC$INSTRUMENT: Exploris 480 Orbitrap (Thermo Scientific)
 AC$INSTRUMENT_TYPE: LC-ESI-QFT
 AC$MASS_SPECTROMETRY: MS_TYPE MS2

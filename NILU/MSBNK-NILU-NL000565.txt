@@ -11,6 +11,7 @@ CH$FORMULA: C8H6O2
 CH$EXACT_MASS: 134.036779430
 CH$SMILES: C1=CC=C(C(=C1)C=O)C=O
 CH$IUPAC: InChI=1S/C8H6O2/c9-5-7-3-1-2-4-8(7)6-10/h1-6H
+CH$LINK: ChemOnt CHEMONTID:0000321; Organic compounds; Benzenoids; Benzene and substituted derivatives; Benzoyl derivatives
 AC$INSTRUMENT: Trace 1310 GC, Thermo Scientific; Q Exactive Orbitrap, Thermo Scientific
 AC$INSTRUMENT_TYPE: GC-EI-FT
 AC$MASS_SPECTROMETRY: MS_TYPE MS

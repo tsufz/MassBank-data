@@ -11,6 +11,7 @@ CH$FORMULA: C10H6F17NO2S
 CH$EXACT_MASS: 526.9847784
 CH$SMILES: CCNS(=O)(=O)C(C(C(C(C(C(C(C(F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F
 CH$IUPAC: InChI=1S/C10H6F17NO2S/c1-2-28-31(29,30)10(26,27)8(21,22)6(17,18)4(13,14)3(11,12)5(15,16)7(19,20)9(23,24)25/h28H,2H2,1H3
+CH$LINK: ChemOnt CHEMONTID:0001027; Organic compounds; Organohalogen compounds; Alkyl halides; Alkyl fluorides
 AC$INSTRUMENT: Vanquish LC, Thermo Scientific; Exploris 120 Orbitrap, Thermo Scientific
 AC$INSTRUMENT_TYPE: LC-ESI-FT
 AC$MASS_SPECTROMETRY: MS_TYPE MS2

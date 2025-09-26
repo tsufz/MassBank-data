@@ -11,6 +11,7 @@ CH$FORMULA: C6H13Cl2O4P
 CH$EXACT_MASS: 249.9928513
 CH$SMILES: CC(CCl)OP(=O)(O)OC(C)CCl
 CH$IUPAC: InChI=1S/C6H13Cl2O4P/c1-5(3-7)11-13(9,10)12-6(2)4-8/h5-6H,3-4H2,1-2H3,(H,9,10)
+CH$LINK: ChemOnt CHEMONTID:0000408; Organic compounds; Organic acids and derivatives; Organic phosphoric acids and derivatives; Phosphate esters
 AC$INSTRUMENT: Vanquish LC, Thermo Scientific; Exploris 120 Orbitrap, Thermo Scientific
 AC$INSTRUMENT_TYPE: LC-ESI-FT
 AC$MASS_SPECTROMETRY: MS_TYPE MS2

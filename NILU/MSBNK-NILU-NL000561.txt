@@ -11,6 +11,7 @@ CH$FORMULA: C9H11Cl2FN2O2S2
 CH$EXACT_MASS: 331.9623035
 CH$SMILES: CN(C)S(=O)(=O)N(C1=CC=CC=C1)SC(F)(Cl)Cl
 CH$IUPAC: InChI=1S/C9H11Cl2FN2O2S2/c1-13(2)18(15,16)14(17-9(10,11)12)8-6-4-3-5-7-8/h3-7H,1-2H3
+CH$LINK: ChemOnt CHEMONTID:0000038; Organic compounds; Benzenoids; Benzene and substituted derivatives; Sulfanilides
 AC$INSTRUMENT: Trace 1310 GC, Thermo Scientific; Q Exactive Orbitrap, Thermo Scientific
 AC$INSTRUMENT_TYPE: GC-EI-FT
 AC$MASS_SPECTROMETRY: MS_TYPE MS

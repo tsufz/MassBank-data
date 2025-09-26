@@ -16,6 +16,7 @@ CH$LINK: CAS 976-71-6
 CH$LINK: PUBCHEM CID: 13789
 CH$LINK: INCHIKEY UJVLDDZCTMKXJK-WNHSNXHDSA-N
 CH$LINK: COMPTOX DTXSID3045930
+CH$LINK: ChemOnt CHEMONTID:0001125; Organic compounds; Lipids and lipid-like molecules; Steroids and steroid derivatives; Steroid lactones
 AC$INSTRUMENT: Exploris 480 Orbitrap (Thermo Scientific)
 AC$INSTRUMENT_TYPE: LC-ESI-QFT
 AC$MASS_SPECTROMETRY: MS_TYPE MS2

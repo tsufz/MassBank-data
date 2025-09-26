@@ -11,6 +11,7 @@ CH$FORMULA: C12H8Cl2S
 CH$EXACT_MASS: 253.9723768
 CH$SMILES: C1=CC(=CC=C1SC2=CC=C(C=C2)Cl)Cl
 CH$IUPAC: InChI=1S/C12H8Cl2S/c13-9-1-5-11(6-2-9)15-12-7-3-10(14)4-8-12/h1-8H
+CH$LINK: ChemOnt CHEMONTID:0004631; Organic compounds; Organosulfur compounds; Thioethers; Aryl thioethers
 AC$INSTRUMENT: Trace 1310 GC, Thermo Scientific; Q Exactive Orbitrap, Thermo Scientific
 AC$INSTRUMENT_TYPE: GC-EI-FT
 AC$MASS_SPECTROMETRY: MS_TYPE MS

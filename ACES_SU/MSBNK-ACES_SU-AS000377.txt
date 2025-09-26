@@ -16,6 +16,7 @@ CH$LINK: CAS 77-19-0
 CH$LINK: PUBCHEM CID: 3042
 CH$LINK: INCHIKEY CURUTKGFNZGFSE-UHFFFAOYSA-N
 CH$LINK: COMPTOX DTXSID1022926
+CH$LINK: ChemOnt CHEMONTID:0001093; Organic compounds; Organic acids and derivatives; Carboxylic acids and derivatives; Carboxylic acid derivatives
 AC$INSTRUMENT: Exploris 480 Orbitrap (Thermo Scientific)
 AC$INSTRUMENT_TYPE: LC-ESI-QFT
 AC$MASS_SPECTROMETRY: MS_TYPE MS2

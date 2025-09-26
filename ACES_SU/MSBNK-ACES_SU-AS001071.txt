@@ -16,6 +16,7 @@ CH$LINK: CAS 486-47-5
 CH$LINK: PUBCHEM CID: 3280
 CH$LINK: INCHIKEY ZOWYFYXTIWQBEP-UHFFFAOYSA-N
 CH$LINK: COMPTOX DTXSID3023009
+CH$LINK: ChemOnt CHEMONTID:0000054; Organic compounds; Organoheterocyclic compounds; Isoquinolines and derivatives; Benzylisoquinolines
 AC$INSTRUMENT: Exploris 480 Orbitrap (Thermo Scientific)
 AC$INSTRUMENT_TYPE: LC-ESI-QFT
 AC$MASS_SPECTROMETRY: MS_TYPE MS2

@@ -16,6 +16,7 @@ CH$LINK: CAS 36791-04-5
 CH$LINK: PUBCHEM CID: 37542
 CH$LINK: INCHIKEY IWUCXVSUMQZMFG-AFCXAGJDSA-N
 CH$LINK: COMPTOX DTXSID8023557
+CH$LINK: ChemOnt CHEMONTID:0002342; Organic compounds; Nucleosides, nucleotides, and analogues; Triazole ribonucleosides and ribonucleotides
 AC$INSTRUMENT: Exploris 480 Orbitrap (Thermo Scientific)
 AC$INSTRUMENT_TYPE: LC-ESI-QFT
 AC$MASS_SPECTROMETRY: MS_TYPE MS2

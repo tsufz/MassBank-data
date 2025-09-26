@@ -15,6 +15,7 @@ CH$IUPAC: InChI=1S/C29H34O6/c1-2-32-29-26(30)28(34-20-24-16-10-5-11-17-24)27(35-
 CH$LINK: CAS 10310-32-4
 CH$LINK: PUBCHEM CID: 196122
 CH$LINK: INCHIKEY ULLNJSBQMBKOJH-VIVFLBMVSA-N
+CH$LINK: ChemOnt CHEMONTID:0000011; Organic compounds; Organic oxygen compounds; Organooxygen compounds; Carbohydrates and carbohydrate conjugates
 AC$INSTRUMENT: Exploris 480 Orbitrap (Thermo Scientific)
 AC$INSTRUMENT_TYPE: LC-ESI-QFT
 AC$MASS_SPECTROMETRY: MS_TYPE MS2

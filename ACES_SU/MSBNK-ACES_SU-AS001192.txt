@@ -16,6 +16,7 @@ CH$LINK: CAS 55-92-5
 CH$LINK: PUBCHEM CID: 1993
 CH$LINK: INCHIKEY NZWOPGCLSHLLPA-UHFFFAOYSA-N
 CH$LINK: COMPTOX DTXSID2046967
+CH$LINK: ChemOnt CHEMONTID:0000503; Organic compounds; Organic nitrogen compounds; Organonitrogen compounds; Quaternary ammonium salts
 AC$INSTRUMENT: Exploris 480 Orbitrap (Thermo Scientific)
 AC$INSTRUMENT_TYPE: LC-ESI-QFT
 AC$MASS_SPECTROMETRY: MS_TYPE MS2

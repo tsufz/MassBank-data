@@ -16,6 +16,7 @@ CH$LINK: CAS 125-84-8
 CH$LINK: PUBCHEM CID: 2145
 CH$LINK: INCHIKEY ROBVIMPUHSLWNV-UHFFFAOYSA-N
 CH$LINK: COMPTOX DTXSID8022589
+CH$LINK: ChemOnt CHEMONTID:0000284; Organic compounds; Benzenoids; Benzene and substituted derivatives; Aniline and substituted anilines
 AC$INSTRUMENT: Exploris 480 Orbitrap (Thermo Scientific)
 AC$INSTRUMENT_TYPE: LC-ESI-QFT
 AC$MASS_SPECTROMETRY: MS_TYPE MS2

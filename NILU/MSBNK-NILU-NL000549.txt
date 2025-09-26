@@ -11,6 +11,7 @@ CH$FORMULA: C12H6Cl4N2O
 CH$EXACT_MASS: 335.920473
 CH$SMILES: C1=CC(=C(C=C1N=[N+](C2=CC(=C(C=C2)Cl)Cl)[O-])Cl)Cl
 CH$IUPAC: InChI=1S/C12H6Cl4N2O/c13-9-3-1-7(5-11(9)15)17-18(19)8-2-4-10(14)12(16)6-8/h1-6H
+CH$LINK: ChemOnt CHEMONTID:0000035; Organic compounds; Benzenoids; Benzene and substituted derivatives; Halobenzenes
 AC$INSTRUMENT: Trace 1310 GC, Thermo Scientific; Q Exactive Orbitrap, Thermo Scientific
 AC$INSTRUMENT_TYPE: GC-EI-FT
 AC$MASS_SPECTROMETRY: MS_TYPE MS

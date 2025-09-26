@@ -16,6 +16,7 @@ CH$LINK: CAS 53-03-2
 CH$LINK: PUBCHEM CID: 5865
 CH$LINK: INCHIKEY XOFYZVNMUHMLCC-ZPOLXVRWSA-N
 CH$LINK: COMPTOX DTXSID4021185
+CH$LINK: ChemOnt CHEMONTID:0001295; Organic compounds; Lipids and lipid-like molecules; Steroids and steroid derivatives; Hydroxysteroids
 AC$INSTRUMENT: Exploris 480 Orbitrap (Thermo Scientific)
 AC$INSTRUMENT_TYPE: LC-ESI-QFT
 AC$MASS_SPECTROMETRY: MS_TYPE MS2

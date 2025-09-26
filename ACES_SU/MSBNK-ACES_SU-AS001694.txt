@@ -16,6 +16,7 @@ CH$LINK: CAS 70-00-8
 CH$LINK: PUBCHEM CID: 6256
 CH$LINK: INCHIKEY VSQQQLOSPVPRAZ-RRKCRQDMSA-N
 CH$LINK: COMPTOX DTXSID4046602
+CH$LINK: ChemOnt CHEMONTID:0002180; Organic compounds; Nucleosides, nucleotides, and analogues; Pyrimidine nucleosides; Pyrimidine 2'-deoxyribonucleosides
 AC$INSTRUMENT: Exploris 480 Orbitrap (Thermo Scientific)
 AC$INSTRUMENT_TYPE: LC-ESI-QFT
 AC$MASS_SPECTROMETRY: MS_TYPE MS2

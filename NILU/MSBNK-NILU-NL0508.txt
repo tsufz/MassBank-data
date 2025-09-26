@@ -11,6 +11,7 @@ CH$FORMULA: C3HF5O2
 CH$EXACT_MASS: 163.98967008
 CH$SMILES: C(=O)(C(C(F)(F)F)(F)F)O
 CH$IUPAC: InChI=1S/C3HF5O2/c4-2(5,1(9)10)3(6,7)8/h(H,9,10)
+CH$LINK: ChemOnt CHEMONTID:0001027; Organic compounds; Organohalogen compounds; Alkyl halides; Alkyl fluorides
 AC$INSTRUMENT: Vanquish LC, Thermo Scientific; Exploris 120 Orbitrap, Thermo Scientific
 AC$INSTRUMENT_TYPE: LC-ESI-FT
 AC$MASS_SPECTROMETRY: MS_TYPE MS2

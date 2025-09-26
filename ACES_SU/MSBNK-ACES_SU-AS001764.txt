@@ -16,6 +16,7 @@ CH$LINK: CAS 77-26-9
 CH$LINK: PUBCHEM CID: 2481
 CH$LINK: INCHIKEY UZVHFVZFNXBMQJ-UHFFFAOYSA-N
 CH$LINK: COMPTOX DTXSID6022711
+CH$LINK: ChemOnt CHEMONTID:0000075; Organic compounds; Organoheterocyclic compounds; Diazines; Pyrimidines and pyrimidine derivatives
 AC$INSTRUMENT: Exploris 480 Orbitrap (Thermo Scientific)
 AC$INSTRUMENT_TYPE: LC-ESI-QFT
 AC$MASS_SPECTROMETRY: MS_TYPE MS2

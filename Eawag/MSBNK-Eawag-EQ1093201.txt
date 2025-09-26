@@ -21,6 +21,7 @@ CH$LINK: KEGG C14501
 CH$LINK: PUBCHEM CID:6319
 CH$LINK: INCHIKEY UTGQNNCQYDRXCH-UHFFFAOYSA-N
 CH$LINK: CHEMSPIDER 6080
+CH$LINK: ChemOnt CHEMONTID:0000284; Organic compounds; Benzenoids; Benzene and substituted derivatives; Aniline and substituted anilines
 AC$INSTRUMENT: Exploris 240 Orbitrap Thermo Scientific
 AC$INSTRUMENT_TYPE: LC-ESI-QFT
 AC$MASS_SPECTROMETRY: MS_TYPE MS2

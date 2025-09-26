@@ -17,6 +17,7 @@ CH$SMILES: CC1=CN(C(=O)N=C1N)C2CC(C(O2)CO)O
 CH$IUPAC: InChI=1S/C10H15N3O4/c1-5-3-13(10(16)12-9(5)11)8-2-6(15)7(4-14)17-8/h3,6-8,14-15H,2,4H2,1H3,(H2,11,12,16)
 CH$LINK: PUBCHEM CID:1835
 CH$LINK: INCHIKEY LUCHPKXVUGJYGU-UHFFFAOYSA-N
+CH$LINK: ChemOnt CHEMONTID:0002180; Organic compounds; Nucleosides, nucleotides, and analogues; Pyrimidine nucleosides; Pyrimidine 2'-deoxyribonucleosides
 AC$INSTRUMENT: Exploris 240 Orbitrap Thermo Scientific
 AC$INSTRUMENT_TYPE: LC-ESI-QFT
 AC$MASS_SPECTROMETRY: MS_TYPE MS2

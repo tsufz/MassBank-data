@@ -11,6 +11,7 @@ CH$FORMULA: C10H10O4
 CH$EXACT_MASS: 194.05790880
 CH$SMILES: CCOC(=O)C1=CC=CC=C1C(=O)O
 CH$IUPAC: InChI=1S/C10H10O4/c1-2-14-10(13)8-6-4-3-5-7(8)9(11)12/h3-6H,2H2,1H3,(H,11,12)
+CH$LINK: ChemOnt CHEMONTID:0000176; Organic compounds; Benzenoids; Benzene and substituted derivatives; Benzoic acids and derivatives
 AC$INSTRUMENT: Vanquish LC, Thermo Scientific; Exploris 120 Orbitrap, Thermo Scientific
 AC$INSTRUMENT_TYPE: LC-ESI-FT
 AC$MASS_SPECTROMETRY: MS_TYPE MS2

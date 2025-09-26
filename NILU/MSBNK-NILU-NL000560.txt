@@ -11,6 +11,7 @@ CH$FORMULA: C21H30O3
 CH$EXACT_MASS: 330.21949481
 CH$SMILES: CC(=O)O[C@H]1CC[C@@]2([C@H]3CC[C@]4([C@H]([C@@H]3CC=C2C1)CCC4=O)C)C
 CH$IUPAC: InChI=1S/C21H30O3/c1-13(22)24-15-8-10-20(2)14(12-15)4-5-16-17-6-7-19(23)21(17,3)11-9-18(16)20/h4,15-18H,5-12H2,1-3H3/t15-,16-,17-,18-,20-,21-/m0/s1
+CH$LINK: ChemOnt CHEMONTID:0001691; Organic compounds; Lipids and lipid-like molecules; Steroids and steroid derivatives; Steroid esters
 AC$INSTRUMENT: Trace 1310 GC, Thermo Scientific; Q Exactive Orbitrap, Thermo Scientific
 AC$INSTRUMENT_TYPE: GC-EI-FT
 AC$MASS_SPECTROMETRY: MS_TYPE MS

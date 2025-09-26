@@ -16,6 +16,7 @@ CH$LINK: CAS 602-41-5
 CH$LINK: PUBCHEM CID: 9915886
 CH$LINK: INCHIKEY LEQAKWQJCITZNK-AXHKHJLKSA-N
 CH$LINK: COMPTOX DTXSID5045330
+CH$LINK: ChemOnt CHEMONTID:0000011; Organic compounds; Organic oxygen compounds; Organooxygen compounds; Carbohydrates and carbohydrate conjugates
 AC$INSTRUMENT: Exploris 480 Orbitrap (Thermo Scientific)
 AC$INSTRUMENT_TYPE: LC-ESI-QFT
 AC$MASS_SPECTROMETRY: MS_TYPE MS2

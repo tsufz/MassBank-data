@@ -11,6 +11,7 @@ CH$FORMULA: C16HF31O2
 CH$EXACT_MASS: 813.9481523
 CH$SMILES: C(=O)(C(C(C(C(C(C(C(C(C(C(C(C(C(C(C(F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)O
 CH$IUPAC: InChI=1S/C16HF31O2/c17-2(18,1(48)49)3(19,20)4(21,22)5(23,24)6(25,26)7(27,28)8(29,30)9(31,32)10(33,34)11(35,36)12(37,38)13(39,40)14(41,42)15(43,44)16(45,46)47/h(H,48,49)
+CH$LINK: ChemOnt CHEMONTID:0000262; Organic compounds; Lipids and lipid-like molecules; Fatty Acyls; Fatty acids and conjugates
 AC$INSTRUMENT: Vanquish LC, Thermo Scientific; Exploris 120 Orbitrap, Thermo Scientific
 AC$INSTRUMENT_TYPE: LC-ESI-FT
 AC$MASS_SPECTROMETRY: MS_TYPE MS2

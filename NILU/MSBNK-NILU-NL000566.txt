@@ -11,6 +11,7 @@ CH$FORMULA: C5Cl8
 CH$EXACT_MASS: 343.744921
 CH$SMILES: C1(=C(C(C(C1(Cl)Cl)(Cl)Cl)(Cl)Cl)Cl)Cl
 CH$IUPAC: InChI=1S/C5Cl8/c6-1-2(7)4(10,11)5(12,13)3(1,8)9
+CH$LINK: ChemOnt CHEMONTID:0002863; Organic compounds; Organohalogen compounds; Vinyl halides; Vinyl chlorides
 AC$INSTRUMENT: Trace 1310 GC, Thermo Scientific; Q Exactive Orbitrap, Thermo Scientific
 AC$INSTRUMENT_TYPE: GC-EI-FT
 AC$MASS_SPECTROMETRY: MS_TYPE MS

@@ -19,6 +19,7 @@ CH$LINK: CAS 6683-19-8
 CH$LINK: PUBCHEM CID:64819
 CH$LINK: INCHIKEY BGYHLZZASRKEJE-UHFFFAOYSA-N
 CH$LINK: CHEMSPIDER 58351
+CH$LINK: ChemOnt CHEMONTID:0002966; Organic compounds; Organic acids and derivatives; Carboxylic acids and derivatives; Tetracarboxylic acids and derivatives
 AC$INSTRUMENT: Exploris 240 Orbitrap Thermo Scientific
 AC$INSTRUMENT_TYPE: LC-ESI-QFT
 AC$MASS_SPECTROMETRY: MS_TYPE MS2

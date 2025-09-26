@@ -11,6 +11,7 @@ CH$FORMULA: C16H22O5
 CH$EXACT_MASS: 294.14672380
 CH$SMILES: CCC(CCC(C)O)COC(=O)C1=CC=CC=C1C(=O)O
 CH$IUPAC: InChI=1S/C16H22O5/c1-3-12(9-8-11(2)17)10-21-16(20)14-7-5-4-6-13(14)15(18)19/h4-7,11-12,17H,3,8-10H2,1-2H3,(H,18,19)
+CH$LINK: ChemOnt CHEMONTID:0000176; Organic compounds; Benzenoids; Benzene and substituted derivatives; Benzoic acids and derivatives
 AC$INSTRUMENT: Vanquish LC, Thermo Scientific; Exploris 120 Orbitrap, Thermo Scientific
 AC$INSTRUMENT_TYPE: LC-ESI-FT
 AC$MASS_SPECTROMETRY: MS_TYPE MS2

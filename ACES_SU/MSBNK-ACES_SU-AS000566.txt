@@ -16,6 +16,7 @@ CH$LINK: CAS 566-48-3
 CH$LINK: PUBCHEM CID: 11273
 CH$LINK: INCHIKEY OSVMTWJCGUFAOD-KZQROQTASA-N
 CH$LINK: COMPTOX DTXSID3034113
+CH$LINK: ChemOnt CHEMONTID:0003568; Organic compounds; Lipids and lipid-like molecules; Steroids and steroid derivatives; Androstane steroids
 AC$INSTRUMENT: Exploris 480 Orbitrap (Thermo Scientific)
 AC$INSTRUMENT_TYPE: LC-ESI-QFT
 AC$MASS_SPECTROMETRY: MS_TYPE MS2

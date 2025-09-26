@@ -16,6 +16,7 @@ CH$LINK: CAS 69655-05-6
 CH$LINK: PUBCHEM CID: 135398739
 CH$LINK: INCHIKEY BXZVVICBKDXVGW-NKWVEPMBSA-N
 CH$LINK: COMPTOX DTXSID6022927
+CH$LINK: ChemOnt CHEMONTID:0002179; Organic compounds; Nucleosides, nucleotides, and analogues; Purine nucleosides; Purine 2',3'-dideoxyribonucleosides
 AC$INSTRUMENT: Exploris 480 Orbitrap (Thermo Scientific)
 AC$INSTRUMENT_TYPE: LC-ESI-QFT
 AC$MASS_SPECTROMETRY: MS_TYPE MS2

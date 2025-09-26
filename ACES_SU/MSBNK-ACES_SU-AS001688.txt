@@ -16,6 +16,7 @@ CH$LINK: CAS 112965-21-6
 CH$LINK: PUBCHEM CID: 5288783
 CH$LINK: INCHIKEY LWQQLNNNIPYSNX-UROSTWAQSA-N
 CH$LINK: COMPTOX DTXSID0046648
+CH$LINK: ChemOnt CHEMONTID:0001460; Organic compounds; Lipids and lipid-like molecules; Steroids and steroid derivatives; Vitamin D and derivatives
 AC$INSTRUMENT: Exploris 480 Orbitrap (Thermo Scientific)
 AC$INSTRUMENT_TYPE: LC-ESI-QFT
 AC$MASS_SPECTROMETRY: MS_TYPE MS2

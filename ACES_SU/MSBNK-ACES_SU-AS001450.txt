@@ -16,6 +16,7 @@ CH$LINK: CAS 51-12-7
 CH$LINK: PUBCHEM CID: 4472
 CH$LINK: INCHIKEY NOIIUHRQUVNIDD-UHFFFAOYSA-N
 CH$LINK: COMPTOX DTXSID1023362
+CH$LINK: ChemOnt CHEMONTID:0001322; Organic compounds; Organoheterocyclic compounds; Pyridines and derivatives; Pyridinecarboxylic acids and derivatives
 AC$INSTRUMENT: Exploris 480 Orbitrap (Thermo Scientific)
 AC$INSTRUMENT_TYPE: LC-ESI-QFT
 AC$MASS_SPECTROMETRY: MS_TYPE MS2

@@ -16,6 +16,7 @@ CH$LINK: CAS 77337-76-9
 CH$LINK: PUBCHEM CID: 71158
 CH$LINK: INCHIKEY AFCGFAGUEYAMAO-UHFFFAOYSA-N
 CH$LINK: COMPTOX DTXSID3044259
+CH$LINK: ChemOnt CHEMONTID:0000270; Organic compounds; Organic acids and derivatives; Organic sulfonic acids and derivatives; Organosulfonic acids and derivatives
 AC$INSTRUMENT: Exploris 480 Orbitrap (Thermo Scientific)
 AC$INSTRUMENT_TYPE: LC-ESI-QFT
 AC$MASS_SPECTROMETRY: MS_TYPE MS2

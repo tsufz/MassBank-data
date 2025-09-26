@@ -11,6 +11,7 @@ CH$FORMULA: C9H11BrO2
 CH$EXACT_MASS: 229.99424
 CH$SMILES: CC1=CC(=CC(=C1Br)OC)OC
 CH$IUPAC: InChI=1S/C9H11BrO2/c1-6-4-7(11-2)5-8(12-3)9(6)10/h4-5H,1-3H3
+CH$LINK: ChemOnt CHEMONTID:0004113; Organic compounds; Benzenoids; Benzene and substituted derivatives; Methoxybenzenes
 AC$INSTRUMENT: Trace 1310 GC, Thermo Scientific; Q Exactive Orbitrap, Thermo Scientific
 AC$INSTRUMENT_TYPE: GC-EI-FT
 AC$MASS_SPECTROMETRY: MS_TYPE MS

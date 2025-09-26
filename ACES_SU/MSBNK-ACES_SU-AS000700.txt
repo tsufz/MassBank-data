@@ -16,6 +16,7 @@ CH$LINK: CAS 58-54-8
 CH$LINK: PUBCHEM CID: 3278
 CH$LINK: INCHIKEY AVOLMBLBETYQHX-UHFFFAOYSA-N
 CH$LINK: COMPTOX DTXSID3025257
+CH$LINK: ChemOnt CHEMONTID:0000417; Organic compounds; Benzenoids; Benzene and substituted derivatives; Phenoxyacetic acid derivatives
 AC$INSTRUMENT: Exploris 480 Orbitrap (Thermo Scientific)
 AC$INSTRUMENT_TYPE: LC-ESI-QFT
 AC$MASS_SPECTROMETRY: MS_TYPE MS2

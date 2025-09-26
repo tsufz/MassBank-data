@@ -16,6 +16,7 @@ CH$LINK: CAS 50-18-0
 CH$LINK: PUBCHEM CID: 2907
 CH$LINK: INCHIKEY CMSMOCZEIVJLDB-UHFFFAOYSA-N
 CH$LINK: COMPTOX DTXSID5020364
+CH$LINK: ChemOnt CHEMONTID:0000398; Organic compounds; Organic nitrogen compounds; Organonitrogen compounds; Nitrogen mustard compounds
 AC$INSTRUMENT: Exploris 480 Orbitrap (Thermo Scientific)
 AC$INSTRUMENT_TYPE: LC-ESI-QFT
 AC$MASS_SPECTROMETRY: MS_TYPE MS2
