@@ -27,10 +27,12 @@ jobs:
           path: MassBank-ClassyFire
           ref: main
 
-      - name: Run script to modify the MassBank records
+      - name: Setup python
         uses: actions/setup-python@v6
         with:
           python-version: 3.12
+
+      - name: Run script to modify the MassBank records
         run: |
           echo "Running script to modify the MassBank records..."
           cd MassBank-ClassyFire
