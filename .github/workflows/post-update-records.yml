@@ -23,22 +23,20 @@ jobs:
       - name: Checkout MassBank ClassyFire repository
         uses: actions/checkout@v5
         with:
-          repository: michaelwenk/MassBank-ClassyFire
+          repository: meier-rene/MassBank-ClassyFire
           path: MassBank-ClassyFire
           ref: main
 
-      - name: Setup python
+      - name: Run script to modify the MassBank records
         uses: actions/setup-python@v6
         with:
           python-version: 3.12
-
-      - name: Run script to modify the MassBank records
         run: |
           echo "Running script to modify the MassBank records..."
           cd MassBank-ClassyFire
           pip install -r requirements.txt
           echo "Running run.sh with MassBank data folder ..."
-          ./run.sh ../MassBank-data 18000
+          python run.py ../MassBank-data 18000
 
       - name: Check for changes
         id: check_changes
