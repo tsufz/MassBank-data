@@ -25,16 +25,20 @@ jobs:
         with:
           repository: michaelwenk/MassBank-ClassyFire
           path: MassBank-ClassyFire
-          fetch-depth: 1
           ref: main
+
+      - name: Setup python
+        uses: actions/setup-python@v6
+        with:
+          python-version: 3.12
 
       - name: Run script to modify the MassBank records
         run: |
           echo "Running script to modify the MassBank records..."
           cd MassBank-ClassyFire
           pip install -r requirements.txt
-          echo "Running run.sh with MassBank data folder and 15 seconds of waiting time before trying to fetch results from ClassyFire ..."
-          sh run.sh ../MassBank-data 18000
+          echo "Running run.sh with MassBank data folder ..."
+          run.sh ../MassBank-data 18000
 
       - name: Check for changes
         id: check_changes
