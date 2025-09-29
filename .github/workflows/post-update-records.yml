@@ -16,13 +16,12 @@ jobs:
 
     steps:
       - name: Checkout this repo's code
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
         with:
           path: MassBank-data
 
       - name: Checkout MassBank ClassyFire repository
-        uses: actions/checkout@v4
-        if: ${{ (github.ref != 'refs/heads/main') && (github.base_ref != 'main') }}
+        uses: actions/checkout@v5
         with:
           repository: michaelwenk/MassBank-ClassyFire
           path: MassBank-ClassyFire
@@ -35,7 +34,7 @@ jobs:
           cd MassBank-ClassyFire
           pip install -r requirements.txt
           echo "Running run.sh with MassBank data folder and 15 seconds of waiting time before trying to fetch results from ClassyFire ..."
-          sh run.sh ../MassBank-data 15
+          sh run.sh ../MassBank-data 18000
 
       - name: Check for changes
         id: check_changes
@@ -61,7 +60,7 @@ jobs:
           git config --global user.email "${{ github.actor }}@users.noreply.github.com"
 
           # create branch name variable
-          branch="post-update-records-pull-request"
+          branch="post-update-records-$(date +%Y%m%d-%H%M%S)-${GITHUB_RUN_ID}"
 
           # create a new branch for the changes
           git checkout -b $branch
