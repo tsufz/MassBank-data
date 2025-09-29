@@ -38,7 +38,7 @@ jobs:
           cd MassBank-ClassyFire
           pip install -r requirements.txt
           echo "Running run.sh with MassBank data folder ..."
-          python run.py ../MassBank-data 18000
+          python -u run.py ../MassBank-data 18000
 
       - name: Check for changes
         id: check_changes
