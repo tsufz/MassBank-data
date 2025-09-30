@@ -23,7 +23,7 @@ jobs:
       - name: Checkout MassBank ClassyFire repository
         uses: actions/checkout@v5
         with:
-          repository: meier-rene/MassBank-ClassyFire
+          repository: MassBank/MassBank-ClassyFire
           path: MassBank-ClassyFire
           ref: main
 
@@ -38,7 +38,7 @@ jobs:
           cd MassBank-ClassyFire
           pip install -r requirements.txt
           echo "Running run.sh with MassBank data folder ..."
-          python -u run.py ../MassBank-data 18000
+          ./run.sh ../MassBank-data 18000
 
       - name: Check for changes
         id: check_changes
