@@ -46,3 +46,4 @@ jobs:
           files: |
             MassBank_RIKENformat.msp
             MassBank_NISTformat.msp
+            MassBank.json
